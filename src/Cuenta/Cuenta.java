@@ -7,7 +7,7 @@ package Cuenta;
 
 /**
  *
- * @author diego
+ * @author Diego Eduardo Beltramo
  */
 public class Cuenta {
     int numeroCuenta;
