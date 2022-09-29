@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Diego Beltramo
+ * @author Diego Eduardo Beltramo
  */
 public class ServicioCuenta {
     Scanner leer = new Scanner(System.in);
